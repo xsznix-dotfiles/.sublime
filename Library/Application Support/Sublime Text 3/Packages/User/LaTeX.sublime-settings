@@ -1,0 +1,9 @@
+// These settings override both User and Default settings for the LaTeX syntax
+{
+	"font_face": "Helvetica Neue",
+	"font_size": 16,
+	"line_numbers": false,
+	"word_wrap": true,
+	"wrap_width": 40,
+	"draw_centered": true
+}

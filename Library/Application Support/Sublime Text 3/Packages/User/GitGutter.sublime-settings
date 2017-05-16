@@ -1,0 +1,12 @@
+// GitGutter Settings - User
+{
+  "show_markers_on_untracked_file": false,
+  "status_bar_text": [
+    "{{repo}}/{{branch}}",
+    "{% if compare not in ('HEAD', branch) %} < {{compare}}{% endif %}",
+    " ({{state}})",
+    "{% if deleted != 0 %}, {{deleted}}-{% endif %}",
+    "{% if inserted != 0 %}, {{inserted}}+{% endif %}",
+    "{% if modified != 0 %}, {{modified}}≠{% endif %}"
+  ]
+}
