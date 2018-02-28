@@ -1,9 +1,15 @@
-// These settings override both User and Default settings for the Markdown syntax
 {
 	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"draw_centered": true,
+	"extensions":
+	[
+		"mdown",
+		"txt",
+		"md",
+		"md"
+	],
 	"font_face": "Helvetica Neue",
 	"font_size": 18,
-	"wrap_width": 40,
 	"line_numbers": true,
-	// "draw_centered": false,
+	"wrap_width": 40
 }

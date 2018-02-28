@@ -2,7 +2,6 @@
 {
 	"font_face": "Helvetica Neue",
 	"font_size": 16,
-	"line_numbers": false,
 	"word_wrap": true,
 	"wrap_width": 40,
 	"draw_centered": true

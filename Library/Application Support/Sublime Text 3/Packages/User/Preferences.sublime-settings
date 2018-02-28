@@ -34,14 +34,16 @@
 		"app",
 		"voicemail"
 	],
-	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night-Eighties.tmTheme",
+	"color_scheme": "Packages/Tomorrow Color Schemes/Tomorrow-Night.tmTheme",
 	"draw_white_space": "all",
 	"ensure_newline_at_eof_on_save": true,
+	"font_face": "Fira Code",
 	"font_size": 12,
 	"highlight_line": true,
 	"highlight_modified_tabs": true,
 	"ignored_packages":
 	[
+		"Markdown"
 	],
 	"rulers":
 	[
@@ -51,5 +53,7 @@
 	"show_encoding": true,
 	"show_line_endings": true,
 	"tab_completion": false,
-	"theme": "Soda Dark.sublime-theme"
+	"tab_size": 2,
+	"theme": "Soda Dark.sublime-theme",
+	"translate_tabs_to_spaces": true
 }
